@@ -1,14 +1,12 @@
 <div align=center>
-    <h3>문제해결형 개발자, 서형빈입니다!</h3>
+    <h3>문제해결형 신입 개발자, 서형빈입니다!</h3>
     <hr/>
 </div>
 
-CS분야 최우수 컨퍼런스 논문 게재, 각종 국가연구/산학협력 과제 참여, 프로그래밍 경진대회 등을 통해 문제해결 능력을 길러왔습니다.
+CS분야 최우수 컨퍼런스 논문 게재, 각종 국가연구/산학협력 과제 참여, 프로그래밍 경진대회 등을 통해 양질의 문제해결 능력을 길러왔습니다.
 
 이제는 더 나아가, 산업현장에서 다양한 문제를 직접 고민하고 해결해보고 싶다는 생각을 하고 있습니다. 
 
-&nbsp;
-&nbsp;
 
 ## 주요 경력
 -	2021.09 ~ 현재, 국민대학교 정보보호연구실 연구원, 국가연구/산학협력 과제 7개 참여 *(세부 실적 첨부 예정)*
@@ -65,3 +63,9 @@ CS분야 최우수 컨퍼런스 논문 게재, 각종 국가연구/산학협력 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+## 학력 사항
+- 2022.09 ~ 2024.02, 국민대학교 컴퓨터공학과 석사 (학석사연계)
+    - 평점 4.44 / 4.5
+- 2019.03 ~ 2022.08, 국민대학교 소프트웨어학부 학사
+    - 평점 3.89 / 4.5
